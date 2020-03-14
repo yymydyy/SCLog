@@ -1,4 +1,5 @@
 disable telekinesis in ebwizardry mod
+add whitelist
 try to fix crash appears frequently we delete the ToughAsNail, senoseSeason and levelup mod, that cause the block changed,so we
   rollback the world to 20-13 13:52
   delete levelup mod for a try
